@@ -11,7 +11,7 @@ if ( ! function_exists( 'et_setup_theme' ) ){
 		require_once(TEMPLATEPATH . '/includes/functions/comments.php'); 
 
 		require_once(TEMPLATEPATH . '/includes/functions/sidebars.php'); 
-
+		
 		load_theme_textdomain('SimplePress',get_template_directory().'/lang');
 
 		require_once(TEMPLATEPATH . '/epanel/options_simplepress.php');
