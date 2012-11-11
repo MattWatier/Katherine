@@ -35,7 +35,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700);
 
-body { background: #f6f6f6 url(images/bg.png) repeat-x; color: #525252; font-family: 'Open Sans', Arial, Helvetica, sans-serif;  font-size: 12px; line-height: 19px; }
+body { background: #f6f6f6 url(images/bg.png) repeat-x; color: #525252; font-family: 'Open Sans', Arial, Helvetica, sans-serif;  font-size: 14px; line-height: 19px; }
 a, a:hover { text-decoration: none; color: #000; }
 .clear { padding: 0; margin: 0; clear: both; }
 .wrapper { width: 960px; margin: auto;}
