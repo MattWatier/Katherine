@@ -20,9 +20,7 @@
 		p.et_pt_blogmeta a:hover { color:#111; text-decoration: none; }		
 	div.et_pt_thumb { height:191px; margin:0 20px 0 0; padding:8px 0 0 8px; position:relative; width:191px; }
 		div.et_pt_thumb span.overlay { background:url("images/blog-image-overlay.png") no-repeat scroll 0 0 transparent; display:block; height:199px; left:0; position:absolute; top:0; width:199px; }
-	.et_pt_blogentry a.readmore { background:url("images/blog-readmore.png") no-repeat right bottom; color:#282828; display:block; float:right; font-size:11px; height:27px; line-height:24px; padding-right:13px; text-shadow:1px 1px 1px #FFFFFF; }
-		.et_pt_blogentry a.readmore span { background:url("images/blog-readmore.png") no-repeat; display:block; height:27px; padding:0 0 0 13px; }
-		
+			
 
 #et_pt_gallery { padding: 15px 0px 0px 0px; margin-left: -33px; }
 	.et_pt_gallery_entry { background:url("images/item-bottom-shadow.png") no-repeat scroll left bottom transparent; float:left; margin:0 0px 32px 33px; padding-bottom:5px; position:relative; width: 213px; height: 142px; }
