@@ -56,8 +56,9 @@ Template Name:Page wth Cat Posts
                         foreach ($posts_array as $POST) {
 
                            $items = <<<BLOCK
+<hr style="margin: 10px 30px;">
 <div id="post-$POST->ID" class="post">
-<h2>$POST->post_title</h2>
+<h3>$POST->post_title</h3>
 <p><small>Date: <em>$POST->post_date<em></small></p>
 <p>$POST->post_excerpt</p>
 <a href="$POST->guid">» Read more about "$POST->post_title"</a>
